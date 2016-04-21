@@ -49,9 +49,9 @@ void display()   {
         System.out.println("\n Distance between (" + x1 + "," + y1 + ") and (" + x2 + "," + y2 + ") is : " + d + " unit(s) " );   }  
 
 public static void main(String p[]) throws IOException{    
-	distance dis = new distance();    
+	/*distance dis = new distance();    
 	dis.get();    
 	dis.display();  
-
+	*/
     } 
 }
